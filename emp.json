@@ -1,0 +1,61 @@
+[{
+ "empid": "SJ011MS",
+ "personal":
+  {
+  "name":"Smith Jones",
+  "gender":"Male",
+  "age": 28,
+  "address":
+   {
+   "streetaddress":"724th Street",
+   "city":"New York",
+   "state": "NY",
+   "postalcode":"10038"
+   }
+  },
+ "profile":
+  {
+  "designation":"Deputy General",
+  "department":"Finance"
+  }
+},{
+ "empid": "DB011MS",
+ "personal":
+  {
+  "name":"Mark Smith",
+  "gender":"Male",
+  "age": 28,
+  "address":
+   {
+   "streetaddress":"24th Street",
+   "city":"New York",
+   "state": "NY",
+   "postalcode":"10038"
+   }
+  },
+ "profile":
+  {
+  "designation":"Deputy General",
+  "department":"Finance"
+  }
+},{
+ "empid": "FX011MS",
+ "personal":
+  {
+  "name":"Dan Adams",
+  "gender":"Male",
+  "age": 28,
+  "address":
+   {
+   "streetaddress":"24th Street",
+   "city":"CA ",
+   "state": "CA",
+   "postalcode":"10038"
+   }
+  },
+ "profile":
+  {
+  "designation":"Deputy General",
+  "department":"Finance"
+  }
+}]
